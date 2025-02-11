@@ -1,14 +1,14 @@
 const messages = [
-    "Em có chắc không?",
-    "Em thực sự chắc chắn??",
+    "Em có chắc là từ chối không?",
+    "Em thực sự chắc chắn từ chối anh hả??",
     "Em hong thay đổi ý định hả?",
-    "Em ơi, làm ơn cho anh cơ hội đi :3...",
+    "Em làm ơn cho anh cơ hội đi mà :3...",
     "Hãy suy nghĩ kỹ lại đi mà!",
-    "Nếu em nói không, anh sẽ rất buồn...",
-    "Anh cực kỳ buồn...",
-    "Anh sẽ cực cực cực kỳ buồn...",
+    "Nếu em chọn không, anh sẽ rất buồn...",
+    "Anh cực kỳ buồn đó :<...",
+    "Anh sẽ cực cực cực kỳ buồn :<<...",
     "Được rồi, anh sẽ ngừng hỏi...",
-    "Đùa thôi, em làm ơn nói có đi! ❤️"
+    "Đùa thôi, em làm ơn nói có với anh đi! ❤️"
 ];
 
 let messageIndex = 0;
